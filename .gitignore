@@ -1,0 +1,119 @@
+# =============================================================
+# PipelineIQ — .gitignore
+# =============================================================
+
+# ── Secrets & environment ─────────────────────────────────────
+.env
+.env.local
+.env.*.local
+*.secret
+secrets/
+
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+wheels/
+share/python-wheels/
+MANIFEST
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+.env/
+.venv/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+nocover/
+coverage.xml
+*.cover
+*.py,cover
+
+# Type checkers
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pytype/
+.pyre/
+
+# Jupyter
+.ipynb_checkpoints
+
+# ── Database ──────────────────────────────────────────────────
+*.db
+*.db.bak
+*.sqlite
+*.sqlite3
+
+# ── Log files ─────────────────────────────────────────────────
+*.log
+*.log.*
+backend.log
+backend_err.log
+frontend.log
+uvicorn_stdout.txt
+uvicorn_stderr.txt
+startup_out.txt
+startup_err.txt
+
+# ── Temporary / diagnostic scripts ───────────────────────────
+tmp_*.json
+diag_*.py
+check_*.py
+test_e2e_*.py
+test_resume.py
+check_langgraph.py
+
+# ── Node / Frontend ───────────────────────────────────────────
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.vite/
+.npm
+.yarn-integrity
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# ── OS / Editor ───────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Alembic ───────────────────────────────────────────────────
+# Keep migrations but ignore compiled cache
+alembic/__pycache__/

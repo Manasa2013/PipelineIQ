@@ -1,0 +1,112 @@
+[
+  {
+    "company_name": "Acme Corp",
+    "industry": "Enterprise Software",
+    "employee_count": 2500,
+    "company_size": "1000-5000",
+    "location": "San Francisco, CA",
+    "website": "https://acme.com",
+    "revenue": "$500M-$1B",
+    "founded_year": 2010,
+    "description": "Leading provider of enterprise cloud solutions"
+  },
+  {
+    "company_name": "Globex Inc",
+    "industry": "Manufacturing",
+    "employee_count": 15000,
+    "company_size": "10000+",
+    "location": "Detroit, MI",
+    "website": "https://globex.com",
+    "revenue": "$5B-$10B",
+    "founded_year": 1985,
+    "description": "Global manufacturing and logistics company"
+  },
+  {
+    "company_name": "Initech",
+    "industry": "Information Technology",
+    "employee_count": 450,
+    "company_size": "201-1000",
+    "location": "Austin, TX",
+    "website": "https://initech.com",
+    "revenue": "$50M-$100M",
+    "founded_year": 2015,
+    "description": "IT consulting and managed services provider"
+  },
+  {
+    "company_name": "Umbrella Corp",
+    "industry": "Pharmaceuticals",
+    "employee_count": 8000,
+    "company_size": "5001-10000",
+    "location": "Raleigh, NC",
+    "website": "https://umbrella.com",
+    "revenue": "$2B-$5B",
+    "founded_year": 1968,
+    "description": "Pharmaceutical research and development"
+  },
+  {
+    "company_name": "Stark Industries",
+    "industry": "Defense & Aerospace",
+    "employee_count": 12000,
+    "company_size": "10000+",
+    "location": "Los Angeles, CA",
+    "website": "https://starkindustries.com",
+    "revenue": "$10B+",
+    "founded_year": 1940,
+    "description": "Advanced weapons and aerospace technology"
+  },
+  {
+    "company_name": "Wayne Enterprises",
+    "industry": "Conglomerate",
+    "employee_count": 50000,
+    "company_size": "10000+",
+    "location": "Gotham City, NJ",
+    "website": "https://wayneenterprises.com",
+    "revenue": "$50B+",
+    "founded_year": 1870,
+    "description": "Diversified multinational conglomerate"
+  },
+  {
+    "company_name": "Cyberdyne Systems",
+    "industry": "Artificial Intelligence",
+    "employee_count": 320,
+    "company_size": "201-1000",
+    "location": "Palo Alto, CA",
+    "website": "https://cyberdyne.com",
+    "revenue": "$100M-$500M",
+    "founded_year": 2018,
+    "description": "AI and machine learning research"
+  },
+  {
+    "company_name": "Soylent Corp",
+    "industry": "Food & Beverage",
+    "employee_count": 180,
+    "company_size": "51-200",
+    "location": "Portland, OR",
+    "website": "https://soylent.com",
+    "revenue": "$10M-$50M",
+    "founded_year": 2020,
+    "description": "Sustainable food technology company"
+  },
+  {
+    "company_name": "Hooli",
+    "industry": "Technology",
+    "employee_count": 3500,
+    "company_size": "1000-5000",
+    "location": "Palo Alto, CA",
+    "website": "https://hooli.com",
+    "revenue": "$1B-$5B",
+    "founded_year": 2005,
+    "description": "Cloud computing and data analytics"
+  },
+  {
+    "company_name": "Pied Piper",
+    "industry": "Technology",
+    "employee_count": 25,
+    "company_size": "1-50",
+    "location": "San Francisco, CA",
+    "website": "https://piedpiper.com",
+    "revenue": "Under $1M",
+    "founded_year": 2022,
+    "description": "Revolutionary compression technology startup"
+  }
+]
